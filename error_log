@@ -1,0 +1,11 @@
+[01-Nov-2024 18:57:12 UTC] {"message":"unknown_error","error":"","status":400,"cause":[]}
+[01-Nov-2024 18:57:19 UTC] {"message":"unknown_error","error":"","status":400,"cause":[]}
+[01-Nov-2024 18:57:24 UTC] {"message":"unknown_error","error":"","status":400,"cause":[]}
+[01-Nov-2024 18:57:43 UTC] {"message":"unknown_error","error":"","status":400,"cause":[]}
+[01-Nov-2024 18:58:25 UTC] {"message":"unknown_error","error":"","status":400,"cause":[]}
+[01-Nov-2024 19:02:35 UTC] {"message":"unknown_error","error":"","status":400,"cause":[]}
+[01-Nov-2024 19:02:39 UTC] {"message":"unknown_error","error":"","status":400,"cause":[]}
+[26-Nov-2024 17:39:21 UTC] PHP Fatal error:  Doctrine\Inflector\GenericLanguageInflectorFactory cannot implement  - it is not an interface in /home/ujglaesm/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/GenericLanguageInflectorFactory.php on line 11
+[26-Nov-2024 17:39:55 UTC] PHP Fatal error:  Doctrine\Inflector\GenericLanguageInflectorFactory cannot implement  - it is not an interface in /home/ujglaesm/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/GenericLanguageInflectorFactory.php on line 11
+[26-Nov-2024 17:40:13 UTC] PHP Fatal error:  Doctrine\Inflector\GenericLanguageInflectorFactory cannot implement  - it is not an interface in /home/ujglaesm/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/GenericLanguageInflectorFactory.php on line 11
+[26-Nov-2024 17:40:56 UTC] PHP Fatal error:  Doctrine\Inflector\GenericLanguageInflectorFactory cannot implement  - it is not an interface in /home/ujglaesm/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/GenericLanguageInflectorFactory.php on line 11
